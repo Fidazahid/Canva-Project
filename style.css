@@ -8,7 +8,7 @@
 .self-text-red{
     color: var(--red);
 }
-.self.bg.dark{
+.self-bg-dark{
     background-color: #000000 !important;
 }
 
@@ -16,11 +16,19 @@
     background-image: url(/assets/bg-trans-img.svg);
     background-position: center;
 }
+.bg-dot-img{
+    background-image: url(assets/57-578236_svg-black-and-white-download-wait-where-s.png);
+    background-position: center;
+    
+}
 p{
     margin-bottom: 0rem !important;
 }
 .bg-white-smoke{
     background-color: #F8F8F8;
+}
+.fs-8{
+    font-size: 8px;
 }
 .fs-12{
     font-size: 12px;
@@ -41,4 +49,10 @@ p{
 .girlImageWidth{
     width: 160px;
      height: 170px;
+}
+.x{
+    padding: 10px 50px !important;
+}
+.y{
+    padding: 0px 20px;
 }
