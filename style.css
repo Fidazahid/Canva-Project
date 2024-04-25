@@ -85,6 +85,20 @@ p{
 .fs-70{
     font-size: 70px;
 }
+.w-706{
+    width: 706px;
+}
+.w-500{
+    width: 500px;
+}
+.w-490{
+    width: 490px;
+}
+.max-w-230{
+    max-width: 230px; 
+    min-width: 200px;
+}
+.w-350{ width: 350px;}
 .x{
     padding: 10px 50px !important;
 }
