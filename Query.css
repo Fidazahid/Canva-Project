@@ -16,3 +16,25 @@
          height: 170px !important;
     }
 }
+@media screen and (min-width: 450px) and (max-width: 576px) {
+   .me-576-to-480{
+    margin-right: 70px !important;
+   }
+   .me-576-to-480.me-4{
+    margin-right: 0px !;
+   }
+   
+  }
+  @media only screen and (max-width: 450px){
+
+    .me-576-to-480{
+        margin-right: 10px !important;
+       }
+}
+ @media only screen and (max-width: 320px){
+
+    .girlImageWidth{
+        width: 100px !important;
+         height: 170px !important;
+    }
+} 
